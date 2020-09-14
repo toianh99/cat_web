@@ -31,7 +31,7 @@
     
 }
 .header__content{
-    background-image: url("https://toianh99.github.io/cat_web/img/bg_header.png");
+    background-image: url("/cat_web/img/bg_header.png");
     background-size: cover;
     height: 83.5rem;
 }
