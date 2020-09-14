@@ -102,7 +102,7 @@
     display: flex;
     width: 100%;
     padding-top: 5rem;
-    background-image: url("https://toianh99.github.io/cat_web/img/bg_page1.png");
+    background-image: url("https://toianh99.github.io/cat_web/img/bg_page1.png")
     background-size: cover ;
     padding-bottom: 5rem;
 }
