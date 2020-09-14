@@ -80,3 +80,54 @@
 .txt-white{
     color: white;
 }
+.company--title p{
+    text-align: center;
+    margin-top: 10rem;
+    font-size: 1.6rem;
+}
+.company__logo{
+    margin: 5rem 10rem;
+    display: flex;
+}
+.company__logo--detail{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+}
+.page1__content--title{
+    font-size: 3.6rem;
+    width: 30%;
+}
+.page1{
+    display: flex;
+    width: 100%;
+    padding-top: 5rem;
+    background-image: url("/img/bg_page1.png");
+    background-size: cover ;
+    padding-bottom: 5rem;
+}
+.page1__content{
+    margin-left: auto;
+    width: 50%;
+}
+.page1__content--desc{
+    width: 50%;
+    margin-bottom: 5rem;
+}
+.page1__content--feature{
+    padding-top: 10rem;
+    display: flex;
+}
+.page1__content--icon i{
+    font-size: 5rem;
+    color: #f55767;
+}
+.page1__content--icon{
+    padding: 1rem;
+    border-radius: 50%;
+    background-color: #ffecef;
+}
+.page1__content--feature--detail{
+    padding:0rem 3rem;
+    width: 40%;
+}
